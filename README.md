@@ -1,6 +1,6 @@
 # ALERIX – Tienda Virtual de Productos de Seguridad y Protección Personal
 
-![ALERIX](diseno/marca/Logo_ALERIX.png)
+![ALERIX](06-diseno/marca/Logo_ALERIX.png)
 
 Proyecto formativo del programa **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** del Servicio Nacional de Aprendizaje (SENA), ficha 3293963 (Proyecto 1).
 
@@ -17,33 +17,39 @@ ALERIX es una tienda virtual especializada en la venta de productos de seguridad
 
 Instructora: Margoth Lorena Martinez Diaz.
 
-## Documentos principales
+## Contenido del repositorio
 
-- [Informe Documental del Proyecto Formativo, Sprints 0 a 2 (PDF)](docs/Informe_Documental_ALERIX_Sprint2.pdf). La versión del Sprint 1 está en [docs/versiones-anteriores](docs/versiones-anteriores).
-- [Documento del proyecto ALERIX (PDF)](docs/Documento_Proyecto_ALERIX.pdf): requerimientos, casos de uso, diagramas UML, modelo entidad-relación, diccionario de datos y plan de calidad.
-- [Actas de reunión de los Sprints 0 y 1 (PDF)](docs/Actas_Reunion_ALERIX_Sprint0_y_1.pdf)
-- [Análisis: SRS, historias de usuario, Product Backlog, casos de uso y trazabilidad (Excel)](analisis/Analisis_ALERIX.xlsx)
-- [Arquitectura de la solución (PDF)](diseno/arquitectura/Arquitectura_Solucion_ALERIX.pdf): capas, tecnologías, componentes y despliegue.
-- [Diagramas UML de diseño (PDF)](diseno/uml/Diagramas_UML_Diseno_ALERIX.pdf): componentes, clases, secuencia y estados del pedido.
-- [Mapa de navegación (PDF)](diseno/navegacion/Mapa_Navegacion_ALERIX.pdf): pantallas de la página web, la app móvil y la app de escritorio.
-- [Mockups de las pantallas (PDF)](diseno/mockups/Mockups_Prototipo_ALERIX.pdf) y [prototipo navegable en línea](https://valentina838-prog.github.io/Alerix/diseno/prototipo/index.html): se abre directamente en el navegador.
-- [Trazabilidad de diseño (PDF)](diseno/trazabilidad/Trazabilidad_Diseno_ALERIX.pdf): requerimiento, historia de usuario, caso de uso, pantalla y componente.
-- [Diagramas de casos de uso](diseno/casos-de-uso)
-- [Identidad visual: imagotipo, colores y manual de marca](diseno/marca)
-- [Propuesta de investigación formativa y encuesta (Excel)](investigacion/Propuesta_Investigacion_ALERIX.xlsx)
+### 01. Informe documental
+- [Informe Documental del Proyecto Formativo, Sprints 0 a 2 (PDF)](01-informe-documental/Informe_Documental_ALERIX_Sprint2.pdf)
+
+### 02. Documento del proyecto
+- [Documento del proyecto ALERIX (PDF)](02-documento-del-proyecto/Documento_Proyecto_ALERIX.pdf): requerimientos, casos de uso, diagramas UML, modelo entidad-relación, diccionario de datos y plan de calidad.
+
+### 03. Actas de reunión
+- [Actas de reunión de los Sprints 0 y 1 (PDF)](03-actas-de-reunion/Actas_Reunion_ALERIX_Sprint0_y_1.pdf)
+
+### 04. Análisis
+- [SRS, historias de usuario, Product Backlog, casos de uso y trazabilidad (Excel)](04-analisis/Analisis_ALERIX.xlsx)
+
+### 05. Investigación y encuesta
+- [Propuesta de investigación formativa (Excel)](05-investigacion-y-encuesta/Propuesta_Investigacion_ALERIX.xlsx)
 - [Encuesta sobre la compra de productos de seguridad en Cali (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSe4SDujHKSu8S9HsvKWO1icX21ENfCT1RbA3YrIWBhcolOyEA/viewform)
-- [Respuestas de la encuesta: 50 respuestas anónimas (Excel)](investigacion/Respuestas_Encuesta_ALERIX.xlsx)
+- [Respuestas de la encuesta: 50 respuestas anónimas (Excel)](05-investigacion-y-encuesta/Respuestas_Encuesta_ALERIX.xlsx)
 
-## Organización del repositorio
+### 06. Diseño
+- [Arquitectura de la solución (PDF)](06-diseno/arquitectura/Arquitectura_Solucion_ALERIX.pdf): capas, tecnologías, componentes y despliegue.
+- [Mapa de navegación (PDF)](06-diseno/navegacion/Mapa_Navegacion_ALERIX.pdf): pantallas de la página web, la app móvil y la app de escritorio.
+- [Mockups de las pantallas (PDF)](06-diseno/mockups/Mockups_Prototipo_ALERIX.pdf) y [prototipo navegable en línea](https://valentina838-prog.github.io/Alerix/06-diseno/prototipo/index.html): se abre directamente en el navegador.
+- [Diagramas UML de diseño (PDF)](06-diseno/uml/Diagramas_UML_Diseno_ALERIX.pdf): componentes, clases, secuencia y estados del pedido.
+- [Trazabilidad de diseño (PDF)](06-diseno/trazabilidad/Trazabilidad_Diseno_ALERIX.pdf): requerimiento, historia de usuario, caso de uso, pantalla y componente.
+- [Diagramas de casos de uso](06-diseno/casos-de-uso)
+- [Identidad visual: imagotipo, colores y manual de marca](06-diseno/marca)
 
-| Carpeta | Contenido | Sprint |
-|---|---|---|
-| `/` (raíz) | README con la descripción del proyecto, el equipo y los roles Scrum. | 0 |
-| [`/docs`](docs) | Informe documental en Word y PDF, documento completo del proyecto y actas de reunión. | 1 a 3 |
-| [`/analisis`](analisis) | SRS, historias de usuario, Product Backlog y casos de uso. | 1 |
-| [`/investigacion`](investigacion) | Propuesta de investigación formativa y encuesta. | 1 |
-| [`/diseno`](diseno) | Diagramas UML, arquitectura, mapa de navegación, mockups y manual de marca. | 1 y 2 |
-| `/base-de-datos` | MER, modelo relacional, normalización, diccionario y script DDL. | 3 |
+### 07. Base de datos
+- MER, modelo relacional, normalización, diccionario de datos, integridad y script DDL (Sprint 3).
+
+### 08. Versiones anteriores
+- [Informe del Sprint 1](08-versiones-anteriores)
 
 ## Sprints de la actividad
 
