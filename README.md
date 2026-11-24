@@ -49,4 +49,4 @@ Instructora: Margoth Lorena Martinez Diaz.
 | Sprint 2 | 23 al 28 de noviembre de 2026 | Consolidar la fase de Diseño |
 | Sprint 3 | 30 de noviembre al 5 de diciembre de 2026 | Consolidar la base de datos e integrar el informe |
 
-El seguimiento de los sprints se lleva en el tablero de la pestaña **Projects** de este repositorio.
+El seguimiento de los sprints se lleva en el [tablero Scrum del proyecto](https://github.com/users/Valentina838-prog/projects/1), que también aparece en la pestaña **Projects** de este repositorio.
