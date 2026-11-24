@@ -26,6 +26,7 @@ Instructora: Margoth Lorena Martinez Diaz.
 - [Arquitectura de la solución (PDF)](diseno/arquitectura/Arquitectura_Solucion_ALERIX.pdf): capas, tecnologías, componentes y despliegue.
 - [Diagramas UML de diseño (PDF)](diseno/uml/Diagramas_UML_Diseno_ALERIX.pdf): componentes, clases, secuencia y estados del pedido.
 - [Mapa de navegación (PDF)](diseno/navegacion/Mapa_Navegacion_ALERIX.pdf): pantallas de la página web, la app móvil y la app de escritorio.
+- [Mockups de las pantallas (PDF)](diseno/mockups/Mockups_Prototipo_ALERIX.pdf) y [prototipo navegable](diseno/prototipo): para recorrerlo, descarga el repositorio y abre `diseno/prototipo/index.html` en el navegador.
 - [Diagramas de casos de uso](diseno/casos-de-uso)
 - [Identidad visual: imagotipo, colores y manual de marca](diseno/marca)
 - [Propuesta de investigación formativa y encuesta (Excel)](investigacion/Propuesta_Investigacion_ALERIX.xlsx)
