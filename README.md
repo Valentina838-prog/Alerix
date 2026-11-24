@@ -1,5 +1,7 @@
 # ALERIX – Tienda Virtual de Productos de Seguridad y Protección Personal
 
+![ALERIX](diseno/marca/Logo_ALERIX.png)
+
 Proyecto formativo del programa **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** del Servicio Nacional de Aprendizaje (SENA), ficha 3293963 (Proyecto 1).
 
 ALERIX es una tienda virtual especializada en la venta de productos de seguridad para el hogar y para vehículos, artículos de protección personal y elementos para emergencias, dirigida a los ciudadanos de Cali. La solución está formada por una página web y una aplicación móvil para Android, desde las que los clientes consultan el catálogo y compran, y una aplicación de escritorio para Windows, desde la que se administra la tienda. Los tres componentes se conectan a un mismo servidor y a una base de datos MySQL.
@@ -22,6 +24,7 @@ Instructora: Margoth Lorena Martinez Diaz.
 - [Actas de reunión de los Sprints 0 y 1 (PDF)](docs/Actas_Reunion_ALERIX_Sprint0_y_1.pdf)
 - [Análisis: SRS, historias de usuario, Product Backlog, casos de uso y trazabilidad (Excel)](analisis/Analisis_ALERIX.xlsx)
 - [Diagramas de casos de uso](diseno/casos-de-uso)
+- [Identidad visual: imagotipo, colores y manual de marca](diseno/marca)
 - [Propuesta de investigación formativa y encuesta (Excel)](investigacion/Propuesta_Investigacion_ALERIX.xlsx)
 - [Encuesta sobre la compra de productos de seguridad en Cali (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSe4SDujHKSu8S9HsvKWO1icX21ENfCT1RbA3YrIWBhcolOyEA/viewform)
 - [Respuestas de la encuesta: 50 respuestas anónimas (Excel)](investigacion/Respuestas_Encuesta_ALERIX.xlsx)
@@ -34,7 +37,7 @@ Instructora: Margoth Lorena Martinez Diaz.
 | [`/docs`](docs) | Informe documental en Word y PDF, y documento completo del proyecto. | 1 a 3 |
 | [`/analisis`](analisis) | SRS, historias de usuario, Product Backlog y casos de uso. | 1 |
 | [`/investigacion`](investigacion) | Propuesta de investigación formativa y encuesta. | 1 |
-| [`/diseno`](diseno) | Diagramas UML, arquitectura, mapa de navegación y mockups. | 1 y 2 |
+| [`/diseno`](diseno) | Diagramas UML, arquitectura, mapa de navegación, mockups y manual de marca. | 1 y 2 |
 | `/base-de-datos` | MER, modelo relacional, normalización, diccionario y script DDL. | 3 |
 
 ## Sprints de la actividad
