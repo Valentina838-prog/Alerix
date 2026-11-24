@@ -25,6 +25,7 @@ Instructora: Margoth Lorena Martinez Diaz.
 - [Análisis: SRS, historias de usuario, Product Backlog, casos de uso y trazabilidad (Excel)](analisis/Analisis_ALERIX.xlsx)
 - [Arquitectura de la solución (PDF)](diseno/arquitectura/Arquitectura_Solucion_ALERIX.pdf): capas, tecnologías, componentes y despliegue.
 - [Diagramas UML de diseño (PDF)](diseno/uml/Diagramas_UML_Diseno_ALERIX.pdf): componentes, clases, secuencia y estados del pedido.
+- [Mapa de navegación (PDF)](diseno/navegacion/Mapa_Navegacion_ALERIX.pdf): pantallas de la página web, la app móvil y la app de escritorio.
 - [Diagramas de casos de uso](diseno/casos-de-uso)
 - [Identidad visual: imagotipo, colores y manual de marca](diseno/marca)
 - [Propuesta de investigación formativa y encuesta (Excel)](investigacion/Propuesta_Investigacion_ALERIX.xlsx)
