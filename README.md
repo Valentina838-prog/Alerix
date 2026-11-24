@@ -19,7 +19,7 @@ Instructora: Margoth Lorena Martinez Diaz.
 
 ## Documentos principales
 
-- [Informe Documental del Proyecto Formativo (PDF)](docs/Informe_Documental_ALERIX_Sprint1.pdf)
+- [Informe Documental del Proyecto Formativo, Sprints 0 a 2 (PDF)](docs/Informe_Documental_ALERIX_Sprint2.pdf). La versión del Sprint 1 está en [docs/versiones-anteriores](docs/versiones-anteriores).
 - [Documento del proyecto ALERIX (PDF)](docs/Documento_Proyecto_ALERIX.pdf): requerimientos, casos de uso, diagramas UML, modelo entidad-relación, diccionario de datos y plan de calidad.
 - [Actas de reunión de los Sprints 0 y 1 (PDF)](docs/Actas_Reunion_ALERIX_Sprint0_y_1.pdf)
 - [Análisis: SRS, historias de usuario, Product Backlog, casos de uso y trazabilidad (Excel)](analisis/Analisis_ALERIX.xlsx)
@@ -39,7 +39,7 @@ Instructora: Margoth Lorena Martinez Diaz.
 | Carpeta | Contenido | Sprint |
 |---|---|---|
 | `/` (raíz) | README con la descripción del proyecto, el equipo y los roles Scrum. | 0 |
-| [`/docs`](docs) | Informe documental en Word y PDF, y documento completo del proyecto. | 1 a 3 |
+| [`/docs`](docs) | Informe documental en Word y PDF, documento completo del proyecto y actas de reunión. | 1 a 3 |
 | [`/analisis`](analisis) | SRS, historias de usuario, Product Backlog y casos de uso. | 1 |
 | [`/investigacion`](investigacion) | Propuesta de investigación formativa y encuesta. | 1 |
 | [`/diseno`](diseno) | Diagramas UML, arquitectura, mapa de navegación, mockups y manual de marca. | 1 y 2 |
